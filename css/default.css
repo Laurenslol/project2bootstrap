@@ -1,3 +1,7 @@
 div {
     padding: 5;
 }
+.alert {
+    --bs-alert-padding-x: 1rem;
+    --bs-alert-margin-bottem: 1rem;
+}
